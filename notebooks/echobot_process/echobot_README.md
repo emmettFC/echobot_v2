@@ -1,6 +1,6 @@
 # EchoBot Processing Pipeline
 
-**Notebook:** `echobot_pipeline_02.ipynb`
+**Notebook:** `echobot_pipeline_01.ipynb`
 **Translated from:** `Matlab/echobot_pipeline_SCRIPTED.m`
 **Instrument:** EchoBot custom sonar system (3-sector receive array)
 **Purpose:** Process a wideband FM chirp recording of calibration spheres (38 mm and 22 mm tungsten carbide) in the CRL tank, producing frequency-dependent target strength approximations TS(f) and system SNR estimates. Companion to the EK80 reference pipeline (`EK80_pipeline_01.ipynb`).

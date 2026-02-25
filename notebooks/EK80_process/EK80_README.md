@@ -2,7 +2,7 @@
 
 **Notebook:** `EK80_pipeline_01.ipynb`
 **Instrument:** Simrad EK80 wideband transceiver with ES120-18CDK-Split transducer
-**Purpose:** Process a 90–150 kHz FM chirp recording of a 38 mm tungsten carbide calibration sphere in the CRL tank, producing frequency-dependent target strength TS(f) and signal-to-noise ratio (SNR) estimates. Serves as a calibrated reference for cross-validation with the EchoBot pipeline (`echobot_pipeline_02.ipynb`).
+**Purpose:** Process a 90–150 kHz FM chirp recording of a 38 mm tungsten carbide calibration sphere in the CRL tank, producing frequency-dependent target strength TS(f) and signal-to-noise ratio (SNR) estimates. Serves as a calibrated reference for cross-validation with the EchoBot pipeline (`echobot_pipeline_01.ipynb`).
 
 ---
 
